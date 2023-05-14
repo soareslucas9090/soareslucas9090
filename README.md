@@ -7,7 +7,6 @@
 🏫 Em formação no curso de TADS no <img align="center" alt="IFPI" height="20" src="https://i.ibb.co/rFSrQBd/ifpi.png"> <a href="https://www.ifpi.edu.br/">IFPI - Instituto Federal do Piauí</a>, Campus Floriano
 <br>
 🤔 Uma queda enorme por backend e mobile
-<br>
 <div style="display: inline_block"><br>
 <img align="center" alt="Stats" height="180em" src=https://vercel-stats-mij1.vercel.app/api?username=soareslucas9090&count_private=true&show_icons=true&theme=transparent>
   <img align="center" alt="Stats Langs" height="180em" src=https://vercel-stats-mij1.vercel.app/api/top-langs?username=soareslucas9090&show_icons=true&theme=transparent&exclude_repo=Exercicio---Cast-e-Objeto,bot2POO,Amostra-Soticon,trabalhoRangel,Estrutura-de-Dados-2,rafaballerini,vercelStats>
