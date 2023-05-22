@@ -9,7 +9,6 @@
 🤔 Uma queda enorme por backend e mobile
 <div style="display: inline_block">
 <img align="center" alt="Stats" height="180em" src=https://vercel-stats-mij1.vercel.app/api?username=soareslucas9090&count_private=true&show_icons=true&theme=transparent>
-  <img align="center" alt="Stats Langs" height="180em" src=https://vercel-stats-mij1.vercel.app/api/top-langs?username=soareslucas9090&show_icons=true&theme=transparent&exclude_repo=Exercicio---Cast-e-Objeto,bot2POO,Amostra-Soticon,trabalhoRangel,Estrutura-de-Dados-2,rafaballerini,vercelStats>
 </div>
 <br>
 <h3>🚀 Meus principais conhecimentos:</h3>
