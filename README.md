@@ -7,6 +7,7 @@
 🏫 Em formação no curso de TADS no <img align="center" alt="IFPI" height="20" src="https://i.ibb.co/rFSrQBd/ifpi.png"> <a href="https://www.ifpi.edu.br/">IFPI - Instituto Federal do Piauí</a>, Campus Floriano
 <br>
 🤔 Uma queda enorme por backend e mobile
+<br>
 📲 Visite meus pins para ver meus projetos (terminados e em andamento!)
 
 <div style="display: inline_block">
