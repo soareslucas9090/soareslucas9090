@@ -2,7 +2,7 @@
 
 👨‍💻 Trabalho atualmente como Agente de HelpDesk, procurando minha primeira vaga de desenvolvedor
 <br>
-📚 Estudo Kotlin + Android Studio
+📚 Estudo Kotlin + Android Studio e Python + Django
 <br>
 🏫 Em formação no curso de TADS no <img align="center" alt="IFPI" height="20" src="https://i.ibb.co/rFSrQBd/ifpi.png"> <a href="https://www.ifpi.edu.br/">IFPI - Instituto Federal do Piauí</a>, Campus Floriano
 <br>
