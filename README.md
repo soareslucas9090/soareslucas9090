@@ -1,8 +1,8 @@
 ## Opa! Eu sou o Lucas Soares, apaixonado por tecnologia e música🤖🎧
 
-👨‍💻 Trabalho atualmente como Agente de HelpDesk, querendo me inserir formalmente no mercado de desenvolvimento
+👨‍💻 Trabalho atualmente como Desenvolvedor Backend Freelancer
 <br>
-📚 Kotlin + Android Studio & Python + Django
+📚 Python + Django / Java + Spring
 <br>
 🏫 Em formação no curso de TADS no <img align="center" alt="IFPI" height="20" src="https://i.ibb.co/rFSrQBd/ifpi.png"> <a href="https://www.ifpi.edu.br/">IFPI - Instituto Federal do Piauí</a>, Campus Floriano
 <br>
