@@ -16,10 +16,12 @@
 <br>
 <h3>🚀 Meus principais conhecimentos:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kotlin" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"><span>&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" alt="Android Studio" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"><span>&nbsp;&nbsp;&nbsp;</span>
   <img align="center" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><span>&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" alt="Django" width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg">
+  <img align="center" alt="Django" width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"><span>&nbsp;&nbsp;&nbsp;</span>
+  <img align="center" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"><span>&nbsp;&nbsp;&nbsp;</span>
+  <img align="center" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"><span>&nbsp;&nbsp;&nbsp;</span>
+  <img align="center" alt="Kotlin" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"><span>&nbsp;&nbsp;&nbsp;</span>
+  <img align="center" alt="Android Studio" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 </div>
 
 
