@@ -16,12 +16,13 @@
 <br>
 <h3>🚀 Meus principais conhecimentos:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><span>&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" alt="Django" width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"><span>&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"><span>&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"><span>&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" alt="Kotlin" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"><span>&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" alt="Android Studio" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <a href = "https://www.python.org/"><img align="center" alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a><span>&nbsp;&nbsp;&nbsp;</span>
+  <a href = "https://www.djangoproject.com/"><img align="center" alt="Django" width="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"></a><span>&nbsp;&nbsp;&nbsp;</span>
+  <a href = "https://www.django-rest-framework.org/"><img align="center" alt="Django Rest Framework" height="50" src="https://i.imgur.com/dcVFAeV.png"></a><span>&nbsp;&nbsp;&nbsp;</span>
+  <a href = "https://www.java.com/pt-BR/download/help/whatis_java.html"><img align="center" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"></a><span>&nbsp;&nbsp;&nbsp;</span>
+  <a href = "https://spring.io/"><img align="center" alt="Spring" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"></a><span>&nbsp;&nbsp;&nbsp;</span>
+  <a href = "https://kotlinlang.org/"><img align="center" alt="Kotlin" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a><span>&nbsp;&nbsp;&nbsp;</span>
+  <a href = "https://developer.android.com/studio"><img align="center" alt="Android Studio" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></a>
 </div>
 
 
